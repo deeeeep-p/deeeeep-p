@@ -5,8 +5,7 @@
   databases like MongoDB and MySQL.
 </h3>
 
-- 🌱 I’m currently learning **frontend technologies, including React.** - 📫 How
-to reach me **deep.patel22@spit.ac.in** <br>- ⚡ Fun fact **I am ready to tackle any
+- 🌱 I’m currently learning **frontend technologies, including React.**  <br>- ⚡ Fun fact **I am ready to tackle any
 challenge, one commit at a time.**
 <h3>Connect With Me:</h3>
 <div id="badges">
