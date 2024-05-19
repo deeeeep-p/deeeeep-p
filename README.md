@@ -5,7 +5,8 @@
   databases like MongoDB and MySQL.
 </h3>
 
-- 🌱 I’m currently learning **frontend technologies, including React.** <br>- ⚡ Fun fact **I am ready to tackle any
+- 🌱 I’m currently learning **frontend technologies, including React.** - 📫 How
+to reach me **deep.patel22@spit.ac.in** <br>- ⚡ Fun fact **I am ready to tackle any
 challenge, one commit at a time.**
 <h3>Connect With Me:</h3>
 <div id="badges">
@@ -21,9 +22,6 @@ challenge, one commit at a time.**
       alt="Gmail Badge"
     />
   </a>
-
-  <!-- [![Linkedin Badge](https://img.shields.io/badge/mayank--ravariya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mayank-ravariya)](https://www.linkedin.com/in/mayank-ravariya)
-[![Gmail Badge](https://img.shields.io/badge/mayankravariya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mayankravariya@gmail.com)](mailto:mayankravariya@gmail.com) -->
 </div>
 
 <br />
@@ -81,7 +79,7 @@ challenge, one commit at a time.**
 
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
+    <img⌨️
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
       alt="css3"
       width="40"
@@ -116,13 +114,14 @@ challenge, one commit at a time.**
 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png"
+      src="[https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-UcEjuu3AwR77ZjceWzpeSsZCdGUa4YFc6KvA-7YHA&s](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8-UcEjuu3AwR77ZjceWzpeSsZCdGUa4YFc6KvA-7YHA&s)"
       alt="express"
-
+       width="40"
       height="40"
     />
+    
   </a>
-  <h3 align="left">Backend Technologies:</h3>
+  <h3 align="left">🖥️Backend Technologies:</h3>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
